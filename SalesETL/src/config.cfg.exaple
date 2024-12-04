@@ -1,0 +1,7 @@
+[database]
+uri = sqlalchemy database url
+
+[azure]
+STORAGE_ACCOUNT_URL =
+CONTAINER_NAME =
+SAS_TOKEN = 

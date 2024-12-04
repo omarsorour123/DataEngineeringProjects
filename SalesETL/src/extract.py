@@ -11,4 +11,4 @@ def extract(file_path):
 
 
 
-raw_data = extract('../data/Walmart_Sales.csv')
+
