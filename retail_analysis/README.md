@@ -1,6 +1,6 @@
 # Retail Data Analysis Project
 
-This project focuses on analyzing retail sales data using SQL and Python. The primary goal is to practice SQL queries, data ingestion, and data visualization as part of your Data Engineering learning plan. The analysis involves processing and visualizing retail data to derive insights such as sales trends, best-selling products, and customer behavior.
+This project focuses on analyzing retail sales data using SQL and Python. The primary goal is to practice SQL queries, data ingestion, and data visualization as part of my Data Engineering learning plan. The analysis involves processing and visualizing retail data to derive insights such as sales trends, best-selling products, and customer behavior.
 
 ## Technologies Used
 
