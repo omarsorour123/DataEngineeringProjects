@@ -1,0 +1,19 @@
+APP:
+  API_KEY: ""
+  URL: "https://api.openweathermap.org/data/2.5/weather"
+
+DATABASE:
+  HOST: "localhost"
+  PORT: "5432"
+  DBNAME: "airflow_db"
+  USER: "postgres"
+  PASSWORD: ""
+
+CITIES:
+  - Cairo
+  - Giza
+  - Alexandria
+  - Aswan
+
+PATHS:
+  ETL_OUTPUT_PATH: "WeatherDataPipeline/weather_data.csv"
